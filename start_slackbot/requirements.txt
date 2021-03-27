@@ -1,2 +1,3 @@
 slackbot
+slacker
 python-dotenv

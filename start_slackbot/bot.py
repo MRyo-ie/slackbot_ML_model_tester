@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # ライブラリの読み込み
 import os
 import os.path as osp

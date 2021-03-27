@@ -28,7 +28,7 @@
 1. fashion_mnist (keras 画像分類チュートリアルモデル)
     1. 学習
         ```
-        cd ./botmodules/fashion_mnist
+        cd ./start_slackbot/botmodules/fashion_mnist
         pip install  -r requirements.txt
         python train.py 
         ```
