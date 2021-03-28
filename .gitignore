@@ -4,6 +4,13 @@ test_imgs/
 
 fashion_model/
 
+## 文分類関連
+livedoor/
+*.tar.gz
+*.tsv
+
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
